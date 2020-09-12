@@ -1,0 +1,8 @@
+{
+	"private": true,
+	"name": "hello-gui",
+	"dependencies": {
+		"@nodegui/react-nodegui": "^0.8.0",
+		"react": "^16.13.1"
+	}
+}
